@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shashank Joshi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px">, I'm Shashank Joshi</h1>
 <p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Trajan&color=000000&size=30&center=true&width=600&lines=I+am+into+Research;I+am+into+Blockchain+Development;I+am+into+Quantum+Computing;I+am+into+Web-Development" /></p>
 
 - 🔭 I’m currently working on **Blockchain Based Projects**
